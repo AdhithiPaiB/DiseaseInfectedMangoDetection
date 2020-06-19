@@ -1,1 +1,1 @@
-# DiseaseInfectedMangoDetectionUsingMachineLearningTechniques
+# DiseaseInfectedMangoDetection
